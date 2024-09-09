@@ -53,3 +53,6 @@ button:hover{
 i{
     margin-left: 30px;
 }
+i:hover{
+    cursor: pointer;
+}
